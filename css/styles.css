@@ -1,0 +1,179 @@
+#title {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+.navbar {
+    
+    padding: 0 0 50px;
+    
+}
+.nav-item{
+    margin-left: 25px ;
+    margin-right: 25px;
+}
+.nav-link {
+   
+    font-size: 1.2rem;
+}
+h1 {
+    font-size: 3.5rem;
+    font-family: 'Montserrat';
+    color: white;
+    size: 3rem;
+    line-height: 1.5;
+    padding-bottom: 50px;
+}
+
+h2{
+    
+    /* width: 50%; */
+    text-align: center;
+    color: #fff;
+    font-size: 2.5rem;
+    font-family: Montserrat;
+    line-height: 1.5; 
+}
+
+h3 {
+    text-align: center;
+    color: #fff;
+    font-size: 2.5rem;
+    font-family: Montserrat;
+    line-height: 2;
+    padding: 60px 10px 60px;
+}
+ 
+.container-fluid {
+    padding: 3% 16% 13%;
+}
+.download-btn{
+    background-image: url(images/apple.png);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+}
+.title-image {
+    /* width: 60%; */
+    transform: rotate(25deg);
+    position: absolute;
+    right: 25%;
+}
+  /* Features Class */
+
+#features {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    position: relative;
+}
+.feature-heading {
+    color: black;
+    padding: 30px 10px 10px;
+    line-height: 1;
+    font-size: 1.5rem;
+}
+  
+.icon{
+    
+    text-align: center;
+    width: 100%;
+    color:#ef8172;
+    padding: 100px 0 15px 0 ;
+}
+.icon:hover {
+   color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+}
+.testimonial-image {
+    width: 8%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Press class */
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+.press-logo {
+    width: 15%;
+    padding-top: 75px;
+    margin: 20px 20px 50px 20px;
+}
+
+/* Pricing section */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.price-h3 {
+    color: black;
+    font-family: Montserrat;
+}
+
+.pricing-header {
+    color: black;
+    text-align: center;
+    font-family: Montserrat;
+    
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+@media (max-width: 1200px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+    
+}
+
+/* Call of action */
+
+ .cta-btn{
+    
+    transform: translateX(435%);
+    margin-bottom: 70px;
+ }
+
+ /* Footer  */
+ #footer {
+    padding: 100px 10px 50px;
+    text-align: center;
+
+ }
+
+ .footer-icon {
+    padding-right: 7px ;
+    padding-left: 7px  
+ }
+/* Sectons */
+
+.colored-section {
+    background-color: #ff4c68;
+
+}
+.white-section {
+    background-color: white;
+}
+
+
+
