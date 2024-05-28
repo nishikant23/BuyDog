@@ -149,9 +149,10 @@ h3 {
 /* Call of action */
 
  .cta-btn{
-  
+/*   
     transform: translateX(435%);
-    margin-padding: 70px;
+    margin-padding: 70px; */
+     margin: 10px;
  }
 
  /* Footer  */
