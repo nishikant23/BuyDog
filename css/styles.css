@@ -150,8 +150,8 @@ h3 {
 
  .cta-btn{
   
-    transform: translateX(435%);
-    margin-bottom: 70px;
+/*     transform: translateX(435%); */
+    margin: 10px;
  }
 
  /* Footer  */
