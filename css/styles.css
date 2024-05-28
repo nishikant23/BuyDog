@@ -149,7 +149,11 @@ h3 {
 /* Call of action */
 
  .cta-btn{
-    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
 /*     transform: translateX(435%); */
     margin-bottom: 70px;
  }
